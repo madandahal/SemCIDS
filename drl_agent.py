@@ -1,6 +1,10 @@
 """
 04_drl_agent.py
 ===============
+Neural network definitions:
+  - MultiDeviceDuelingNet
+  - ZhaoDQNNet
+Imports this module — no direct execution needed.
 """
 import os, random, math, pickle
 import numpy as np
